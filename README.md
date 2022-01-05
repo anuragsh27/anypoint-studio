@@ -1,5 +1,5 @@
 # anypoint-studio
-This repository contains all the versions of MuleSoft runtime and anypoint studio information as in Below table (table is getting update if there is any release by mulesoft)
+This repository contains informatio of all the versions of MuleSoft runtime and anypoint studio information as in Below table (table is getting update if there is any release by mulesoft)
 you can download all these versions by login to anypoint platform using your organization crdetials.
 
 # URL for downoload - https://help.mulesoft.com/s/downloads
