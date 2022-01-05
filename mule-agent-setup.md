@@ -13,7 +13,7 @@ s.no | Name | version | release date
 4|agent-setup-2.4.25.zip||12-16-2021
 5|agent-setup-2.4.24.zip||12-14-2021
 6|agent-setup-2.4.23.zip|2.4.23|11-15-2021
-7|agent-setup-1.15.7.zip|1.15.7|44207
+7|agent-setup-1.15.7.zip|1.15.7|11-01-2021
 8|agent-setup-2.4.22.zip|2.4.22|09-27-2021
 9|agent-setup-2.4.21.zip|2.4.21|08-24-2021
 10|agent-setup-1.15.6.zip|1.15.6|07-23-2021
