@@ -7,7 +7,6 @@ you can download all these versions by login to anypoint platform using your org
 
 s.no | Name | version | release date
 --- | --- | --- | --- 
-
 1|AnypointStudio-7.11.1-macos64.zip|7.11.1|01-06-2022
 2|AnypointStudio-7.11.1-win64.zip|7.11.1|01-06-2022
 3|AnypointStudio-7.11.1-linux64.tar.gz|7.11.1|01-06-2022
